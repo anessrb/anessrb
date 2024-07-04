@@ -3,7 +3,7 @@
 
 ##  <div align="center">👋 Aness RABIA👋</div>
 
-- 🔭 Master Génie Logiciel et Master Management (MTS) à l'IAE
+- 🔭 Master Intelligence Artificielle et Sciences des données et Master Management (MTS) à l'IAE
 
   
 
