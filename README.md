@@ -1,4 +1,4 @@
-# <div align="center">🖥️ Etudiant en Génie Logiciel 🖥️</div>  
+# <div align="center">🖥️ Data Science Student🖥️</div>  
   
 
 ##  <div align="center">👋 Aness RABIA👋</div>
